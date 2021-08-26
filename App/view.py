@@ -77,10 +77,6 @@ while True:
         books = loadBooks()
         print('Total de libros cargados: ' + str(lt.size(books)))
         print("Primer libro cargado: " + str(lt.firstElement(books)))
-
-        # TODO: Modificación de Est-1 en el Lab 2
-
-
         print('Último libro cargado: ' + str(lt.lastElement(books)))
 
     elif int(inputs[0]) == 2:
