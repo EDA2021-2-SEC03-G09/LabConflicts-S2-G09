@@ -1,5 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
+Estudiante 1: Luis Ángel Vargas / 202117081
+
+Estudiante 2: Santiago Latorre / 202111851
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
